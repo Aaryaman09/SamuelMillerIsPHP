@@ -1,2 +1,2 @@
-# SamuelMillerIsPHP
-Take this shit C code just for you. Ciao
+# Samuel Miller << PHP
+Take this noob C code just for you. Ciao
